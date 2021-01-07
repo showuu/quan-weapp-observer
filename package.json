@@ -1,0 +1,20 @@
+{
+  "name": "q-weapp-observer",
+  "version": "1.0.0",
+  "description": "类似vue中watch功能的微信小程序页面数据侦听器",
+  "main": "src/observer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "q",
+    "observer",
+    "watch",
+    "weapp",
+    "wechat",
+    "weixin",
+    "wx"
+  ],
+  "author": "tq",
+  "license": "ISC"
+}
